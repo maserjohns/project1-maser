@@ -78,3 +78,5 @@ Has white 0.5px thick border line only on the top.
 3.7. Make sure that all social media links are #ffd540 yellow. In order to do that give them a class called "social-media-links".
 Troubleshooting
 If you cannot see any auto-grading workflows on the Actions page, learn how to fix it in this repo.
+
+#All the best!
